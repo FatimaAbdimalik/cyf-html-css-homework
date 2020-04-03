@@ -29,6 +29,14 @@ footer {
   position: relative;
 }
 
+article {
+  color: #5d5d5d;
+}
+
+article:first-child {
+  color: #0d0d0d;
+}
+
 .header-container {
   margin: 0 auto;
   max-width: 1200px;
