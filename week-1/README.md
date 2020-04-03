@@ -11,6 +11,10 @@
 - Commit often (with good meaningful commit messages), and Push to Github regularly.
 - Use the sketch below to guide you towards the layout and content you are trying to achieve. Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.
 
+### Ignored Tasks
+
+- Use this website Lorem Ipsum to generate random blocks of contents to fill your website.
+
 ## Disclaimer
 
 This code does NOT follow all of the best practices, methodologies, principles and conventions in industry
